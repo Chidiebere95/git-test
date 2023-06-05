@@ -5,6 +5,7 @@ function App() {
     <div className='App'>
       <div>Hello world</div>
       <p>Switch to master branch</p>
+      <p>added branch-2</p>
     </div>
   );
 }
